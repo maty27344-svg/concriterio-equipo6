@@ -1,0 +1,24 @@
+Fuentes consultadas el 26 de octubre de 2026
+UNESCO. Recommendation on the Ethics of Artificial Intelligence.
+https://www.unesco.org/en/artificial-intelligence/recommendation-ethics
+UNESCO. Guidance for generative AI in education and research.
+https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
+UNICEF. Guidance on AI and children, versión 3.0.
+https://www.unicef.org/innocenti/reports/policy-guidance-ai-children
+NIST. AI Risk Management Framework.
+https://www.nist.gov/itl/ai-risk-management-framework
+Creative Commons. CC licenses.
+https://creativecommons.org/cc-licenses/
+Bootstrap 5.3.8. Licencia MIT incluida en vendor/bootstrap/LICENSE.
+https://getbootstrap.com/docs/5.3/
+GitHub Docs. Quickstart for GitHub Pages.
+https://docs.github.com/en/pages/quickstart
+
+Las ilustraciones SVG fueron creadas para este proyecto con apoyo de IA.
+Los casos de práctica y los ejemplos son ficticios.
+
+Imágenes PNG proporcionadas por el equipo para esta versión:
+ia-criterio.png: portada de Inicio.
+ia-aprendizaje.png: encabezado de Beneficios y límites.
+ia-acompanamiento.png: encabezado de Uso responsable.
+Se conservaron los archivos originales sin modificar su contenido.

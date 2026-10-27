@@ -1,0 +1,48 @@
+CONCRITERIO - EQUIPO 6
+Ética y uso responsable de la inteligencia artificial
+
+ABRIR LA WEB
+1. Descomprime todo el ZIP en una carpeta.
+2. Abre index.html en Chrome, Edge o Firefox.
+3. Conserva juntas las carpetas css, js, imagenes y vendor.
+Bootstrap 5.3.8 y todas las ilustraciones están incluidos localmente.
+
+PUBLICAR EN GITHUB PAGES
+1. En tu cuenta de GitHub crea un repositorio llamado concriterio-equipo6.
+2. Para usar GitHub Free, el repositorio debe ser público. Revisa que solo subas los archivos de este sitio.
+3. En Add file > Upload files sube el CONTENIDO de esta carpeta, no el ZIP. index.html debe quedar en la raíz del repositorio.
+4. Guarda los cambios con Commit changes.
+5. Abre Settings > Pages. En Source elige Deploy from a branch.
+6. Selecciona main y /(root), y pulsa Save.
+7. Espera la publicación y abre la dirección que muestre GitHub Pages.
+8. Copia al documento tanto el enlace al repositorio como el del sitio publicado.
+9. Toma una captura de Settings > Pages y otra del sitio público con la dirección visible.
+Referencia oficial: https://docs.github.com/en/pages/quickstart
+
+QUÉ PROBAR
+- Navega por las cinco páginas desde todos los menús.
+- En Inicio, cambia las ideas del carrusel y abre Resolver un caso.
+- En Beneficios, abre y cierra las preguntas del acordeón.
+- En Uso responsable, elige un uso y prueba la autoevaluación con casillas marcadas y sin marcar.
+- Prueba Empezar de nuevo y comprueba que se borre el resultado.
+- En celular, comprueba el botón de menú y que no haya desbordamiento horizontal.
+
+OCHO RECURSOS BOOTSTRAP
+Navbar: las cinco páginas. Carousel: Inicio. Cards: Beneficios y otras secciones.
+Buttons: las cinco páginas. Grid: filas y columnas en las cinco páginas.
+Accordion: Beneficios y Sesgos. Modal: Resolver un caso en Inicio.
+Form: autoevaluación en Uso responsable.
+
+DATOS Y ALCANCE
+La autoevaluación funciona en el navegador. No envía mensajes, no guarda respuestas y no necesita servidor ni cuenta.
+Los enlaces a fuentes externas requieren internet. El resto de la web funciona sin conexión.
+El sitio todavía debe ser publicado por el equipo: este archivo no representa una publicación ya realizada.
+
+EVIDENCIAS DE LA ACTIVIDAD
+Captura las vistas a 1440, 768 y 390 píxeles de ancho, el código en tu editor,
+los ocho componentes y la publicación real en GitHub Pages. No presentes los mockups como capturas del sitio publicado.
+
+USO DE IA
+Este paquete fue preparado con apoyo de IA. La consigna limita ese apoyo al 20%.
+El equipo debe revisar, comprender, adaptar y declarar el apoyo antes de entregar.
+No se afirma que este paquete por sí solo cumpla ese porcentaje.
